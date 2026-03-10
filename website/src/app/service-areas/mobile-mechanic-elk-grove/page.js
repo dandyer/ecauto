@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Elk Grove CA | EC Mobile Auto Services LLC',
   description:
-    'Mobile mechanic serving Elk Grove, CA. Oil changes, brakes, batteries & more — we come to your home or apartment. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving Elk Grove, CA. Oil changes, brakes, batteries & more — we come to your home or apartment. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-elk-grove' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Elk Grove',
   description: 'Mobile mechanic serving Elk Grove, CA. We come to your home, apartment, or workplace.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-elk-grove',
   areaServed: { '@type': 'City', name: 'Elk Grove', containedIn: { '@type': 'State', name: 'California' } },
 };
@@ -40,7 +40,7 @@ export default function MechanicElkGrovePage() {
             EC Mobile Auto Services brings professional auto repair directly to Elk Grove residents. Home, apartment, or office — we come to you, no shop trip required.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

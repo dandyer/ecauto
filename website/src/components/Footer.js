@@ -15,10 +15,10 @@ export default function Footer() {
             </div>
             <p className="text-blue-300 text-sm mb-4">Sacramento&apos;s Mobile Mechanic — We come to your home, office, or roadside.</p>
             <a
-              href="tel:9165550100"
+              href="tel:9165173286"
               className="inline-block text-orange-400 hover:text-orange-300 font-bold text-lg transition-colors"
             >
-              (916) 555-0100
+              (916) 517-3286
             </a>
             <p className="text-blue-400 text-xs mt-2">Licensed &amp; Insured • Sacramento, CA</p>
           </div>
@@ -67,7 +67,7 @@ export default function Footer() {
         <div className="border-t border-blue-800 pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-blue-400">
           <p>&copy; {currentYear} EC Mobile Auto Services LLC. All rights reserved.</p>
           <p className="flex items-center gap-3">
-            <a href="tel:9165550100" className="hover:text-orange-400 transition-colors font-medium">(916) 555-0100</a>
+            <a href="tel:9165173286" className="hover:text-orange-400 transition-colors font-medium">(916) 517-3286</a>
             <span>•</span>
             <span>Licensed &amp; Insured</span>
             <span>•</span>

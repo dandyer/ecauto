@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Orangevale CA | EC Mobile Auto Services',
   description:
-    'Mobile mechanic serving Orangevale, CA. Oil changes, brakes, batteries & diagnostics at your home. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving Orangevale, CA. Oil changes, brakes, batteries & diagnostics at your home. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-orangevale' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Orangevale',
   description: 'Mobile mechanic serving Orangevale, CA. We come to your home, property, or driveway.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-orangevale',
   areaServed: {
     '@type': 'Place',
@@ -59,7 +59,7 @@ export default function MechanicOrangevalePage() {
             Orangevale residents are spread out, and auto shops are far away. EC Mobile Auto Services brings professional repair directly to your property — trucks, SUVs, older rigs, we handle them all.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -174,7 +174,7 @@ export default function MechanicOrangevalePage() {
         </div>
       </section>
 
-      <CTASection heading="Orangevale's Mobile Mechanic" subheading="We come to your property anywhere in Orangevale. Call (916) 555-0100 — same-day service often available." />
+      <CTASection heading="Orangevale's Mobile Mechanic" subheading="We come to your property anywhere in Orangevale. Call (916) 517-3286 — same-day service often available." />
     </>
   );
 }

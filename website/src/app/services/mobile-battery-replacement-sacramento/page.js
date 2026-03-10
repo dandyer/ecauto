@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Battery Replacement Sacramento CA | Free Test | EC Mobile Auto',
   description:
-    'Dead battery in Sacramento? EC Mobile Auto Services tests and replaces your car battery on-site. Free battery test. Sacramento heat kills batteries fast. Call (916) 555-0100.',
+    'Dead battery in Sacramento? EC Mobile Auto Services tests and replaces your car battery on-site. Free battery test. Sacramento heat kills batteries fast. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-battery-replacement-sacramento' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   offers: [
@@ -66,7 +66,7 @@ export default function MobileBatteryPage() {
             Dead or weak battery? We come to you — test your battery for free and replace it on the spot. Don&apos;t get stranded in Sacramento&apos;s summer heat.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

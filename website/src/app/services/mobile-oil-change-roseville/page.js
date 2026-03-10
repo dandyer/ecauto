@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Oil Change in Roseville, CA | EC Mobile Auto Services',
   description:
-    'Mobile oil change in Roseville, CA. We come to your home or Galleria-area office. Conventional, synthetic & high-mileage. No trip fee. Call (916) 555-0100.',
+    'Mobile oil change in Roseville, CA. We come to your home or Galleria-area office. Conventional, synthetic & high-mileage. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-oil-change-roseville' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: { '@type': 'City', name: 'Roseville', containedIn: { '@type': 'State', name: 'California' } },
@@ -90,7 +90,7 @@ export default function OilChangeRosevillePage() {
             Roseville is a busy city and your time is limited. We come to your West Roseville home, Fiddyment Ranch driveway, or Galleria-area office and handle your oil change while you stay productive.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function OilChangeRosevillePage() {
         </div>
       </section>
 
-      <CTASection heading="Ready for a Mobile Oil Change in Roseville?" subheading="We come to your home or office anywhere in Roseville. Same-day often available — call (916) 555-0100." />
+      <CTASection heading="Ready for a Mobile Oil Change in Roseville?" subheading="We come to your home or office anywhere in Roseville. Same-day often available — call (916) 517-3286." />
     </>
   );
 }

@@ -8,7 +8,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Sacramento CA | EC Mobile Auto Services LLC',
   description:
-    'Need a mobile mechanic in Sacramento? EC Mobile Auto Services comes to your home, office, or roadside. Same-day oil changes, brakes, batteries & more. Call (916) 555-0100.',
+    'Need a mobile mechanic in Sacramento? EC Mobile Auto Services comes to your home, office, or roadside. Same-day oil changes, brakes, batteries & more. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com' },
 };
 
@@ -18,7 +18,7 @@ const localBusinessSchema = {
   name: 'EC Mobile Auto Services LLC',
   description: 'Mobile auto repair and oil change service serving Sacramento County and surrounding areas.',
   url: 'https://ecmobileauto.com',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   priceRange: '$$',
   image: 'https://ecmobileauto.com/og-image.jpg',
   founder: { '@type': 'Person', name: 'Enrique Castillo' },
@@ -71,7 +71,7 @@ const faqPageSchema = {
       name: 'Do you offer same-day mobile mechanic service?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Yes! Same-day and next-day appointments are often available. Call (916) 555-0100 and we will do our best to get to you quickly.',
+        text: 'Yes! Same-day and next-day appointments are often available. Call (916) 517-3286 and we will do our best to get to you quickly.',
       },
     },
     {
@@ -224,10 +224,10 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a
-              href="tel:9165550100"
+              href="tel:9165173286"
               className="btn-primary text-lg px-8 py-4"
             >
-              📞 Call (916) 555-0100
+              📞 Call (916) 517-3286
             </a>
             <Link href="/contact" className="btn-secondary text-lg px-8 py-4">
               Book Online →
@@ -257,7 +257,7 @@ export default function HomePage() {
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">Getting your car serviced has never been easier. Three steps and you&apos;re done.</p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { step: '1', icon: '📱', title: 'Book Your Appointment', desc: 'Call (916) 555-0100 or fill out our online form. Tell us what your car needs and where you are. We\'ll confirm a time that works for you.' },
+              { step: '1', icon: '📱', title: 'Book Your Appointment', desc: 'Call (916) 517-3286 or fill out our online form. Tell us what your car needs and where you are. We\'ll confirm a time that works for you.' },
               { step: '2', icon: '🚐', title: 'We Arrive at Your Location', desc: 'Our mechanic shows up at your home, office, parking lot, or roadside — fully equipped with tools, parts, and everything needed to get the job done.' },
               { step: '3', icon: '✅', title: 'Drive Away Happy', desc: 'We complete the service on-site, answer any questions you have, and you\'re on your way. No waiting rooms, no rides needed, no wasted time.' },
             ].map((step) => (

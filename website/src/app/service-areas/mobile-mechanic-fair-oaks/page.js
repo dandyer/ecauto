@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Fair Oaks CA | EC Mobile Auto Services',
   description:
-    'Mobile mechanic serving Fair Oaks, CA. Oil changes, brakes, batteries & diagnostics at your home or workplace. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving Fair Oaks, CA. Oil changes, brakes, batteries & diagnostics at your home or workplace. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-fair-oaks' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Fair Oaks',
   description: 'Mobile mechanic serving Fair Oaks, CA. We come to your home, driveway, or workplace.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-fair-oaks',
   areaServed: {
     '@type': 'Place',
@@ -59,7 +59,7 @@ export default function MechanicFairOaksPage() {
             EC Mobile Auto Services brings reliable auto repair right to Fair Oaks. Whether you live near the Village, by Sailor Bar, or anywhere along Greenback Lane — we come to you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

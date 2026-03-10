@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Customer Reviews | EC Mobile Auto Services LLC Sacramento',
   description:
-    'Read real customer reviews for EC Mobile Auto Services LLC in Sacramento, CA. 5-star mobile mechanic serving Sacramento County. Call (916) 555-0100.',
+    'Read real customer reviews for EC Mobile Auto Services LLC in Sacramento, CA. 5-star mobile mechanic serving Sacramento County. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/reviews' },
 };
 
@@ -14,7 +14,7 @@ const aggregateRatingSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC',
   url: 'https://ecmobileauto.com',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Sacramento',
@@ -221,7 +221,7 @@ export default function ReviewsPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready to Experience 5-Star Mobile Service?" subheading="Join our Sacramento County customers. Call (916) 555-0100 or book online — same-day often available." />
+      <CTASection heading="Ready to Experience 5-Star Mobile Service?" subheading="Join our Sacramento County customers. Call (916) 517-3286 or book online — same-day often available." />
     </>
   );
 }

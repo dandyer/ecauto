@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Antelope CA | EC Mobile Auto Services',
   description:
-    'Mobile mechanic serving Antelope, CA. Oil changes, brakes, batteries & diagnostics — we come to your home or office. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving Antelope, CA. Oil changes, brakes, batteries & diagnostics — we come to your home or office. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-antelope' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Antelope',
   description: 'Mobile mechanic serving Antelope, CA. We come to your home, apartment, or workplace anywhere in Antelope.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-antelope',
   areaServed: {
     '@type': 'Place',
@@ -59,7 +59,7 @@ export default function MechanicAntelopePage() {
             Antelope families are busy. EC Mobile Auto Services brings professional auto repair directly to your home or workplace — so your vehicle gets serviced without disrupting your schedule.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

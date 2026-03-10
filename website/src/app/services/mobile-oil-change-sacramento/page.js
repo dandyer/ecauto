@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Oil Change Sacramento CA | We Come to You | EC Mobile Auto',
   description:
-    'Mobile oil change service in Sacramento, CA. Conventional, full synthetic & high-mileage options. We come to your home or office. No trip fee. Call (916) 555-0100.',
+    'Mobile oil change service in Sacramento, CA. Conventional, full synthetic & high-mileage options. We come to your home or office. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-oil-change-sacramento' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: ['Sacramento', 'Elk Grove', 'Rancho Cordova', 'Folsom', 'Citrus Heights', 'Roseville'],
@@ -68,7 +68,7 @@ export default function MobileOilChangePage() {
             Fresh oil, new filter, and a multi-point inspection — all done at your home, office, or parking lot. No trip to the shop, no waiting room, no hassle.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -150,7 +150,7 @@ export default function MobileOilChangePage() {
             <h2 className="section-heading">How It Works</h2>
             <ol className="space-y-5">
               {[
-                { n: '1', title: 'Schedule Your Appointment', desc: 'Call (916) 555-0100 or book online. Tell us your vehicle make, model, year, and location. We\'ll confirm a time window that works for you.' },
+                { n: '1', title: 'Schedule Your Appointment', desc: 'Call (916) 517-3286 or book online. Tell us your vehicle make, model, year, and location. We\'ll confirm a time window that works for you.' },
                 { n: '2', title: 'We Show Up Ready', desc: 'Our technician arrives with your specific oil type and filter pre-loaded. We use drip mats to keep your driveway clean and have everything needed to complete the job.' },
                 { n: '3', title: 'Done in Under 30 Minutes', desc: 'Oil drained, new filter installed, fluids topped, and reminder sticker applied. We\'ll show you the dipstick so you can see the fresh oil yourself.' },
               ].map((step) => (

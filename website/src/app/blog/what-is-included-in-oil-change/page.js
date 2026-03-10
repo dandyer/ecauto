@@ -139,7 +139,7 @@ export default function WhatIsIncludedOilChangePage() {
           </ul>
           <p className="text-gray-700 mb-4">At EC Mobile Auto Services, we inspect and advise — we&apos;ll tell you what we see and let you make the call. We don&apos;t auto-add services to every visit.</p>
 
-          <p className="text-gray-700 mb-4">Ready for a professional mobile oil change that includes all of the above? See our <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">mobile oil change service page</Link> or check our <Link href="/pricing" className="text-orange-500 hover:underline">pricing page</Link> for full details. Call (916) 555-0100 to book — we serve all of Sacramento County.</p>
+          <p className="text-gray-700 mb-4">Ready for a professional mobile oil change that includes all of the above? See our <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">mobile oil change service page</Link> or check our <Link href="/pricing" className="text-orange-500 hover:underline">pricing page</Link> for full details. Call (916) 517-3286 to book — we serve all of Sacramento County.</p>
         </div>
       </article>
 
@@ -157,7 +157,7 @@ export default function WhatIsIncludedOilChangePage() {
         </div>
       </section>
 
-      <CTASection heading="Get Everything You Should Expect — Included" subheading="EC Mobile Auto Services includes all of the above in every oil change. Call (916) 555-0100 to book." />
+      <CTASection heading="Get Everything You Should Expect — Included" subheading="EC Mobile Auto Services includes all of the above in every oil change. Call (916) 517-3286 to book." />
     </>
   );
 }

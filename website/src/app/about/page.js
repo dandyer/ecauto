@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'About EC Mobile Auto Services LLC — Sacramento\'s Mobile Mechanic',
   description:
-    'Meet Enrique Castillo, owner of EC Mobile Auto Services LLC. Sacramento-born mobile mechanic with a passion for honest, convenient auto repair. Call (916) 555-0100.',
+    'Meet Enrique Castillo, owner of EC Mobile Auto Services LLC. Sacramento-born mobile mechanic with a passion for honest, convenient auto repair. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/about' },
 };
 
@@ -17,7 +17,7 @@ const personSchema = {
   worksFor: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   description: 'Sacramento-born and raised auto mechanic and owner of EC Mobile Auto Services LLC, providing mobile auto repair across Sacramento County.',
@@ -121,7 +121,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready to Meet Your Mobile Mechanic?" subheading="Call Enrique directly at (916) 555-0100 or book online. We'd love to earn your trust." />
+      <CTASection heading="Ready to Meet Your Mobile Mechanic?" subheading="Call Enrique directly at (916) 517-3286 or book online. We'd love to earn your trust." />
     </>
   );
 }

@@ -113,7 +113,7 @@ export default function ApartmentMechanicPage() {
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">The Bottom Line for Sacramento Apartment Residents</h2>
           <p className="text-gray-700 mb-4">Apartment living in Sacramento doesn&apos;t mean giving up the convenience of mobile auto service. From Natomas apartments near Truxel Road to Elk Grove complexes in the Laguna area, we&apos;ve serviced vehicles in hundreds of apartment parking lots across the region.</p>
           <p className="text-gray-700 mb-4">The most popular service for apartment residents, by far, is the <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">mobile oil change</Link>. It&apos;s quick, clean, and completely practical in a parking lot environment. If you&apos;ve been putting off your oil change because you don&apos;t have a driveway, that&apos;s not a reason — call us and we&apos;ll come to you.</p>
-          <p className="text-gray-700 mb-4">Have questions about whether your specific parking situation will work? <Link href="/contact" className="text-orange-500 hover:underline">Contact us</Link> or call (916) 555-0100. We&apos;re happy to talk through the details before you book.</p>
+          <p className="text-gray-700 mb-4">Have questions about whether your specific parking situation will work? <Link href="/contact" className="text-orange-500 hover:underline">Contact us</Link> or call (916) 517-3286. We&apos;re happy to talk through the details before you book.</p>
         </div>
       </article>
 
@@ -131,7 +131,7 @@ export default function ApartmentMechanicPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready to Book Your Apartment Oil Change?" subheading="We come to Sacramento apartment parking lots every day. Call (916) 555-0100 — same-day often available." />
+      <CTASection heading="Ready to Book Your Apartment Oil Change?" subheading="We come to Sacramento apartment parking lots every day. Call (916) 517-3286 — same-day often available." />
     </>
   );
 }

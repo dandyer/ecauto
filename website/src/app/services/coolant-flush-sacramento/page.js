@@ -6,7 +6,7 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Mobile Coolant Flush in Sacramento, CA | EC Mobile Auto Services',
   description:
-    'Prevent overheating in Sacramento heat with a mobile coolant flush. EC Mobile Auto Services comes to you — no shop needed. Call (916) 555-0100.',
+    'Prevent overheating in Sacramento heat with a mobile coolant flush. EC Mobile Auto Services comes to you — no shop needed. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/coolant-flush-sacramento' },
 };
 
@@ -14,7 +14,7 @@ const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Mobile Coolant Flush Sacramento',
-  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165550100' },
+  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165173286' },
   areaServed: { '@type': 'City', name: 'Sacramento' },
   description: 'Mobile coolant flush and radiator flush service in Sacramento, CA.',
   offers: { '@type': 'Offer', priceCurrency: 'USD', price: '99', description: 'Coolant flush starting price' },
@@ -63,7 +63,7 @@ export default function CoolantFlushPage() {
             Sacramento heat is brutal on cooling systems. A coolant flush prevents overheating, corrosion, and costly engine damage — and we do it right at your location.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-center text-lg px-8 py-4">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-center text-lg px-8 py-4">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-center text-lg px-8 py-4">Book Online</Link>
           </div>
         </div>
@@ -111,7 +111,7 @@ export default function CoolantFlushPage() {
         <div className="max-w-2xl mx-auto">
           <h2 className="text-xl font-bold text-blue-900 mb-2">Coolant Flush Pricing</h2>
           <p className="text-gray-600 mb-4">Starting at <span className="text-2xl font-extrabold text-orange-500">$99</span> — price varies by vehicle and coolant type.</p>
-          <a href="tel:9165550100" className="btn-primary px-8 py-3 inline-block">Call for an Exact Quote</a>
+          <a href="tel:9165173286" className="btn-primary px-8 py-3 inline-block">Call for an Exact Quote</a>
         </div>
       </section>
 

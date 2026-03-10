@@ -176,7 +176,7 @@ export default function ThirtySixtyNinetyPage() {
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">Stay on Schedule Without the Hassle</h2>
           <p className="text-gray-700 mb-4">The biggest obstacle to staying on your maintenance schedule isn&apos;t money — it&apos;s time. Nobody wants to spend a Saturday afternoon at an auto shop. That&apos;s why mobile auto service exists.</p>
-          <p className="text-gray-700">EC Mobile Auto Services handles oil changes, tire rotations, brake service, battery replacements, and diagnostics — all at your Sacramento home or office. <Link href="/contact" className="text-orange-500 hover:underline">Book an appointment</Link> or call (916) 555-0100 to get on the right schedule.</p>
+          <p className="text-gray-700">EC Mobile Auto Services handles oil changes, tire rotations, brake service, battery replacements, and diagnostics — all at your Sacramento home or office. <Link href="/contact" className="text-orange-500 hover:underline">Book an appointment</Link> or call (916) 517-3286 to get on the right schedule.</p>
         </div>
       </article>
 

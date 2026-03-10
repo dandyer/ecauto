@@ -131,7 +131,7 @@ export default function BrakesNeedReplacingPage() {
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">Mobile Brake Service in Sacramento</h2>
           <p className="text-gray-700 mb-4">Brake pad and rotor replacement doesn&apos;t require a shop. EC Mobile Auto Services performs complete <Link href="/services/mobile-brake-service-sacramento" className="text-orange-500 hover:underline">mobile brake service</Link> at your home, apartment, or workplace in Sacramento County. We arrive with the correct pads and rotors for your vehicle, complete the job on-site, and test the brakes before we leave.</p>
-          <p className="text-gray-700 mb-4">If you&apos;ve noticed any of the 7 signs above, call (916) 555-0100 to discuss your situation. We&apos;ll give you an honest assessment and an upfront quote — no shop visit required.</p>
+          <p className="text-gray-700 mb-4">If you&apos;ve noticed any of the 7 signs above, call (916) 517-3286 to discuss your situation. We&apos;ll give you an honest assessment and an upfront quote — no shop visit required.</p>
         </div>
       </article>
 
@@ -149,7 +149,7 @@ export default function BrakesNeedReplacingPage() {
         </div>
       </section>
 
-      <CTASection heading="Brakes Making Noise? We Come to You." subheading="Mobile brake service anywhere in Sacramento County. Call (916) 555-0100 for an upfront quote." />
+      <CTASection heading="Brakes Making Noise? We Come to You." subheading="Mobile brake service anywhere in Sacramento County. Call (916) 517-3286 for an upfront quote." />
     </>
   );
 }

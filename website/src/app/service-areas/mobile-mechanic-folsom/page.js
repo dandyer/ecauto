@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Folsom CA | EC Mobile Auto Services LLC',
   description:
-    'Mobile mechanic serving Folsom, CA. Oil changes, brakes, batteries & diagnostics — we come to you. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving Folsom, CA. Oil changes, brakes, batteries & diagnostics — we come to you. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-folsom' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Folsom',
   description: 'Mobile mechanic serving Folsom, CA. We come to your home, office, or workplace.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-folsom',
   areaServed: { '@type': 'City', name: 'Folsom', containedIn: { '@type': 'State', name: 'California' } },
 };
@@ -34,7 +34,7 @@ export default function MechanicFolsomPage() {
             Serving Folsom&apos;s tech workers, commuters, and families with professional mobile auto repair. We come to your home, office park, or Folsom Lake area parking lot.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

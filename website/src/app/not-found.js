@@ -56,10 +56,10 @@ export default function NotFound() {
           <h2 className="text-2xl font-bold text-blue-900 mb-4">Need Help Right Now?</h2>
           <p className="text-gray-600 mb-6">Skip the website and call us directly. We&apos;re available for same-day appointments across Sacramento County.</p>
           <a
-            href="tel:9165550100"
+            href="tel:9165173286"
             className="btn-primary text-lg inline-block"
           >
-            📞 Call (916) 555-0100
+            📞 Call (916) 517-3286
           </a>
           <p className="text-gray-400 text-sm mt-4">EC Mobile Auto Services LLC · Sacramento, CA</p>
         </div>

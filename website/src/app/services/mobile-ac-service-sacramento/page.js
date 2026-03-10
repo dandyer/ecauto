@@ -6,7 +6,7 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Mobile AC Service & Recharge in Sacramento, CA | EC Mobile Auto Services',
   description:
-    "Sacramento summers hit 100°F+. Don't sweat it — EC Mobile Auto Services recharges and inspects your car AC at your home or office. Call (916) 555-0100.",
+    "Sacramento summers hit 100°F+. Don't sweat it — EC Mobile Auto Services recharges and inspects your car AC at your home or office. Call (916) 517-3286.",
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-ac-service-sacramento' },
 };
 
@@ -14,7 +14,7 @@ const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Mobile AC Service & Recharge Sacramento',
-  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165550100' },
+  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165173286' },
   areaServed: { '@type': 'City', name: 'Sacramento' },
   description: 'Mobile AC recharge and inspection service in Sacramento, CA. We come to your home or workplace.',
   offers: {
@@ -50,7 +50,7 @@ const faqSchema = {
       name: 'How much does a mobile AC recharge cost in Sacramento?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'AC recharge service at EC Mobile Auto Services starts at $89, which includes the refrigerant and a system inspection. Call (916) 555-0100 for an exact quote for your vehicle.',
+        text: 'AC recharge service at EC Mobile Auto Services starts at $89, which includes the refrigerant and a system inspection. Call (916) 517-3286 for an exact quote for your vehicle.',
       },
     },
     {
@@ -75,7 +75,7 @@ const faqs = [
   },
   {
     question: 'How much does mobile AC service cost in Sacramento?',
-    answer: 'AC recharge starts at $89, which includes refrigerant and inspection. Final price depends on your vehicle and how much refrigerant is needed. Call (916) 555-0100 for a quick quote.',
+    answer: 'AC recharge starts at $89, which includes refrigerant and inspection. Final price depends on your vehicle and how much refrigerant is needed. Call (916) 517-3286 for a quick quote.',
   },
   {
     question: 'Can you fix an AC leak on-site?',
@@ -106,8 +106,8 @@ export default function MobileACServicePage() {
             Sacramento summers average 95–105°F. Driving without AC isn't just uncomfortable — it's dangerous. EC Mobile Auto Services recharges and inspects your AC system wherever your car is parked.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-center text-lg px-8 py-4">
-              📞 Call (916) 555-0100
+            <a href="tel:9165173286" className="btn-primary text-center text-lg px-8 py-4">
+              📞 Call (916) 517-3286
             </a>
             <Link href="/contact" className="btn-secondary text-center text-lg px-8 py-4">
               Book Online
@@ -182,7 +182,7 @@ export default function MobileACServicePage() {
             </table>
           </div>
           <p className="text-gray-500 text-sm mt-4 text-center">
-            Prices vary by vehicle. Call <a href="tel:9165550100" className="text-orange-500 font-semibold">(916) 555-0100</a> for an exact quote.
+            Prices vary by vehicle. Call <a href="tel:9165173286" className="text-orange-500 font-semibold">(916) 517-3286</a> for an exact quote.
           </p>
         </div>
       </section>
@@ -193,7 +193,7 @@ export default function MobileACServicePage() {
           <h2 className="text-2xl font-bold text-blue-900 mb-8 text-center">How Mobile AC Service Works</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
-              { step: '1', title: 'Book Your Appointment', desc: 'Call or text (916) 555-0100. Tell us your location and vehicle. We will confirm a time that works for you.' },
+              { step: '1', title: 'Book Your Appointment', desc: 'Call or text (916) 517-3286. Tell us your location and vehicle. We will confirm a time that works for you.' },
               { step: '2', title: 'We Come to You', desc: 'Enrique arrives with professional AC service equipment. No need to drive anywhere — we work in your driveway, parking lot, or at your workplace.' },
               { step: '3', title: 'Cold Air Restored', desc: 'We recharge your refrigerant, inspect the system, and confirm your AC is blowing cold before we leave. Done in under an hour.' },
             ].map((item) => (

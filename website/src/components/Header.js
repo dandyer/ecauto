@@ -44,11 +44,11 @@ export default function Header() {
           {/* CTA Button + Hamburger */}
           <div className="flex items-center gap-3">
             <a
-              href="tel:9165550100"
+              href="tel:9165173286"
               className="btn-primary text-sm px-4 py-2 min-h-[44px]"
             >
               📞 <span className="hidden sm:inline ml-1">Call Now</span>
-              <span className="sm:hidden ml-1">(916) 555-0100</span>
+              <span className="sm:hidden ml-1">(916) 517-3286</span>
             </a>
             <button
               onClick={() => setMenuOpen(!menuOpen)}

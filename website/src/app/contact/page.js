@@ -4,7 +4,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Book a Mobile Mechanic in Sacramento, CA | EC Mobile Auto Services',
   description:
-    'Book EC Mobile Auto Services for mobile oil change, brakes, battery, and more in Sacramento, CA. Call (916) 555-0100 or fill out our online form. Same-day available.',
+    'Book EC Mobile Auto Services for mobile oil change, brakes, battery, and more in Sacramento, CA. Call (916) 517-3286 or fill out our online form. Same-day available.',
   alternates: { canonical: 'https://ecmobileauto.com/contact' },
 };
 
@@ -12,7 +12,7 @@ const contactSchema = {
   '@context': 'https://schema.org',
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com',
   address: {
     '@type': 'PostalAddress',
@@ -24,7 +24,7 @@ const contactSchema = {
   openingHours: ['Mo-Sa 07:00-19:00'],
   contactPoint: {
     '@type': 'ContactPoint',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     contactType: 'customer service',
     areaServed: 'Sacramento County, CA',
   },
@@ -58,12 +58,12 @@ export default function ContactPage() {
             {/* Call */}
             <div className="card mb-4 border-l-4 border-orange-500">
               <p className="text-sm text-gray-500 mb-1">Fastest response — call or text</p>
-              <a href="tel:9165550100" className="text-3xl font-extrabold text-blue-900 hover:text-orange-500 transition-colors block">
-                (916) 555-0100
+              <a href="tel:9165173286" className="text-3xl font-extrabold text-blue-900 hover:text-orange-500 transition-colors block">
+                (916) 517-3286
               </a>
               <div className="flex gap-3 mt-3">
-                <a href="tel:9165550100" className="btn-primary text-sm px-4 py-2">📞 Call Now</a>
-                <a href="sms:9165550100" className="btn-secondary text-sm px-4 py-2">💬 Text Us</a>
+                <a href="tel:9165173286" className="btn-primary text-sm px-4 py-2">📞 Call Now</a>
+                <a href="sms:9165173286" className="btn-secondary text-sm px-4 py-2">💬 Text Us</a>
               </div>
             </div>
 
@@ -194,7 +194,7 @@ export default function ContactPage() {
               >
                 Submit Booking Request →
               </button>
-              <p className="text-xs text-gray-500 text-center">We respond within a few hours during business hours. For immediate help, call (916) 555-0100.</p>
+              <p className="text-xs text-gray-500 text-center">We respond within a few hours during business hours. For immediate help, call (916) 517-3286.</p>
             </form>
           </div>
         </div>
@@ -202,7 +202,7 @@ export default function ContactPage() {
 
       <CTASection
         heading="Prefer to Call? We're Ready."
-        subheading="Call or text (916) 555-0100 — fastest way to get scheduled."
+        subheading="Call or text (916) 517-3286 — fastest way to get scheduled."
         showBook={false}
       />
     </>

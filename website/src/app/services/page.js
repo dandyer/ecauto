@@ -79,7 +79,7 @@ const schema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC',
   url: 'https://ecmobileauto.com',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   areaServed: 'Sacramento, CA',
   hasOfferCatalog: {
     '@type': 'OfferCatalog',
@@ -111,10 +111,10 @@ export default function ServicesPage() {
             We bring the shop to you — at home, at work, or wherever your car is. All services performed on-site with professional equipment.
           </p>
           <a
-            href="tel:9165550100"
+            href="tel:9165173286"
             className="mt-8 inline-block btn-primary text-lg px-8 py-4"
           >
-            📞 Call (916) 555-0100
+            📞 Call (916) 517-3286
           </a>
         </div>
       </section>

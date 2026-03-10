@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Brake Service Sacramento CA | Pads, Rotors & More | EC Mobile Auto',
   description:
-    'Mobile brake pad and rotor replacement in Sacramento, CA. Warning signs, pricing, and same-day service available. We come to you. Call (916) 555-0100.',
+    'Mobile brake pad and rotor replacement in Sacramento, CA. Warning signs, pricing, and same-day service available. We come to you. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-brake-service-sacramento' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: ['Sacramento', 'Elk Grove', 'Rancho Cordova', 'Folsom', 'Citrus Heights', 'Roseville'],
@@ -87,7 +87,7 @@ export default function MobileBrakeServicePage() {
             Squealing or grinding brakes? Don&apos;t risk it. We inspect and replace brake pads and rotors at your home or office — no shop visit required.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

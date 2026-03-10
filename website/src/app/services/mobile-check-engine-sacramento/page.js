@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Check Engine Light Diagnosis Sacramento CA | EC Mobile Auto',
   description:
-    'Check engine light on in Sacramento? We come to you with professional OBD-II diagnostic tools. Accurate diagnosis, honest answers. Call (916) 555-0100.',
+    'Check engine light on in Sacramento? We come to you with professional OBD-II diagnostic tools. Accurate diagnosis, honest answers. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-check-engine-sacramento' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   offers: [{ '@type': 'Offer', name: 'Check Engine Diagnosis', price: '65', priceCurrency: 'USD' }],
@@ -72,7 +72,7 @@ export default function MobileCheckEnginePage() {
             That glowing check engine light is your car trying to tell you something. We come to your location with professional OBD-II diagnostic equipment and give you real answers — not guesses.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Diagnosis →</Link>
           </div>
         </div>

@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Pricing Sacramento CA — Transparent & Fair | EC Mobile Auto',
   description:
-    'How much does a mobile mechanic cost in Sacramento? EC Mobile Auto Services pricing: oil changes from $65, brakes from $150/axle, battery from $120. No trip fee. Call (916) 555-0100.',
+    'How much does a mobile mechanic cost in Sacramento? EC Mobile Auto Services pricing: oil changes from $65, brakes from $150/axle, battery from $120. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/pricing' },
 };
 
@@ -125,7 +125,7 @@ export default function PricingPage() {
             No surprise bills. No trip fees. No pressure upsells. Just honest pricing for professional mobile auto service across Sacramento County.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call for a Quote</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call for a Quote</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -215,7 +215,7 @@ export default function PricingPage() {
         </div>
       </section>
 
-      <CTASection heading="Get an Exact Quote" subheading="Call (916) 555-0100 and describe your vehicle and service need. We'll give you a firm price before booking." />
+      <CTASection heading="Get an Exact Quote" subheading="Call (916) 517-3286 and describe your vehicle and service need. We'll give you a firm price before booking." />
     </>
   );
 }

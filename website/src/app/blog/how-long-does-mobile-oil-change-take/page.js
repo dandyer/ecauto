@@ -110,7 +110,7 @@ export default function HowLongOilChangePage() {
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">The Bottom Line</h2>
           <p className="text-gray-700 mb-4">If someone tells you a mobile oil change takes an hour, they&apos;re either overpromising or doing something very thorough. If someone says 15 minutes, they&apos;re rushing. The honest range for a professional, thorough mobile oil change is <strong>25–35 minutes</strong>.</p>
-          <p className="text-gray-700 mb-4">EC Mobile Auto Services serves Sacramento County — including Elk Grove, Folsom, Rancho Cordova, Roseville, Citrus Heights, Carmichael, and the surrounding communities. See our <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">mobile oil change service page</Link> or call (916) 555-0100 to book.</p>
+          <p className="text-gray-700 mb-4">EC Mobile Auto Services serves Sacramento County — including Elk Grove, Folsom, Rancho Cordova, Roseville, Citrus Heights, Carmichael, and the surrounding communities. See our <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">mobile oil change service page</Link> or call (916) 517-3286 to book.</p>
         </div>
       </article>
 
@@ -128,7 +128,7 @@ export default function HowLongOilChangePage() {
         </div>
       </section>
 
-      <CTASection heading="Book a Mobile Oil Change Today" subheading="25–35 minutes at your home or office. No trip to the shop. Call (916) 555-0100." />
+      <CTASection heading="Book a Mobile Oil Change Today" subheading="25–35 minutes at your home or office. No trip to the shop. Call (916) 517-3286." />
     </>
   );
 }

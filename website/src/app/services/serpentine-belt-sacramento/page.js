@@ -6,7 +6,7 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Mobile Serpentine Belt Replacement in Sacramento, CA | EC Mobile Auto Services',
   description:
-    'Serpentine belt worn, cracked, or squealing? EC Mobile Auto Services replaces it at your location in Sacramento. Call (916) 555-0100 before it snaps.',
+    'Serpentine belt worn, cracked, or squealing? EC Mobile Auto Services replaces it at your location in Sacramento. Call (916) 517-3286 before it snaps.',
   alternates: { canonical: 'https://ecmobileauto.com/services/serpentine-belt-sacramento' },
 };
 
@@ -14,7 +14,7 @@ const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Mobile Serpentine Belt Replacement Sacramento',
-  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165550100' },
+  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165173286' },
   areaServed: { '@type': 'City', name: 'Sacramento' },
   description: 'Mobile serpentine belt inspection and replacement in Sacramento CA. We come to you.',
   offers: { '@type': 'Offer', priceCurrency: 'USD', price: '120', description: 'Serpentine belt replacement starting price' },
@@ -45,7 +45,7 @@ export default function SerpentineBeltPage() {
             A worn or cracked serpentine belt is an emergency waiting to happen. When it snaps, your alternator, AC, power steering, and water pump all stop at once. We replace it at your location before that happens.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-center text-lg px-8 py-4">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-center text-lg px-8 py-4">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-center text-lg px-8 py-4">Book Online</Link>
           </div>
         </div>
@@ -77,7 +77,7 @@ export default function SerpentineBeltPage() {
           <h2 className="text-xl font-bold text-blue-900 mb-2">Serpentine Belt Replacement Pricing</h2>
           <p className="text-gray-600 mb-1">Starting at <span className="text-2xl font-extrabold text-orange-500">$120</span></p>
           <p className="text-gray-500 text-sm mb-4">Includes belt and labor. Price varies by vehicle make/model. We quote before we start — no surprises.</p>
-          <a href="tel:9165550100" className="btn-primary px-8 py-3 inline-block">Call for a Quote</a>
+          <a href="tel:9165173286" className="btn-primary px-8 py-3 inline-block">Call for a Quote</a>
         </div>
       </section>
 

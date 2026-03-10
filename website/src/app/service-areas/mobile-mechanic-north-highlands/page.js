@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic North Highlands CA | EC Mobile Auto Services',
   description:
-    'Mobile mechanic serving North Highlands, CA. Oil changes, brakes, batteries & diagnostics — we come to you. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving North Highlands, CA. Oil changes, brakes, batteries & diagnostics — we come to you. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-north-highlands' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — North Highlands',
   description: 'Mobile mechanic serving North Highlands, CA. We come to your home, apartment, or workplace.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-north-highlands',
   areaServed: {
     '@type': 'Place',
@@ -59,7 +59,7 @@ export default function MechanicNorthHighlandsPage() {
             EC Mobile Auto Services comes directly to North Highlands residents. We handle oil changes, brakes, batteries, and diagnostics at your home or workplace — no shop visit needed.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -174,7 +174,7 @@ export default function MechanicNorthHighlandsPage() {
         </div>
       </section>
 
-      <CTASection heading="North Highlands' Mobile Mechanic" subheading="Dependable auto service at your door. Call (916) 555-0100 to book — same-day often available." />
+      <CTASection heading="North Highlands' Mobile Mechanic" subheading="Dependable auto service at your door. Call (916) 517-3286 to book — same-day often available." />
     </>
   );
 }

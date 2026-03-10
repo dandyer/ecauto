@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Carmichael CA | EC Mobile Auto Services',
   description:
-    'Mobile mechanic serving Carmichael, CA. Oil changes, brakes, batteries & diagnostics at your home or apartment. No trip fee. Call (916) 555-0100.',
+    'Mobile mechanic serving Carmichael, CA. Oil changes, brakes, batteries & diagnostics at your home or apartment. No trip fee. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-carmichael' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Carmichael',
   description: 'Mobile mechanic serving Carmichael, CA. We come to your home, apartment complex, or workplace.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-carmichael',
   areaServed: {
     '@type': 'Place',
@@ -59,7 +59,7 @@ export default function MechanicCarmichaelPage() {
             EC Mobile Auto Services sends a professional mechanic directly to Carmichael residents. Your driveway, your apartment complex, or wherever your car is parked — we come to you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

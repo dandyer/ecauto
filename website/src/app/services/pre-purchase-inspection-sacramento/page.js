@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Pre-Purchase Vehicle Inspection Sacramento CA | Don\'t Buy a Lemon | EC Mobile Auto',
   description:
-    'Pre-purchase car inspection in Sacramento, CA. We come to the seller\'s location. 150+ point inspection. Know exactly what you\'re buying before you commit. Call (916) 555-0100.',
+    'Pre-purchase car inspection in Sacramento, CA. We come to the seller\'s location. 150+ point inspection. Know exactly what you\'re buying before you commit. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/pre-purchase-inspection-sacramento' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   offers: [{ '@type': 'Offer', name: 'Pre-Purchase Vehicle Inspection', price: '100', priceCurrency: 'USD' }],
@@ -74,7 +74,7 @@ export default function PrePurchaseInspectionPage() {
             Buying a used car? We travel to the seller&apos;s location and perform a comprehensive inspection so you know exactly what you&apos;re buying before you hand over a single dollar.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Inspection →</Link>
           </div>
         </div>

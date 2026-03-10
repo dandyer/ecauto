@@ -117,7 +117,7 @@ export default function PrePurchaseInspectionBlogPage() {
           <p className="text-gray-700 mb-4">A good inspector will give you repair cost estimates alongside findings — this makes the negotiation conversation straightforward and data-driven.</p>
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">Book a Pre-Purchase Inspection in Sacramento</h2>
-          <p className="text-gray-700 mb-4">EC Mobile Auto Services offers pre-purchase inspections throughout Sacramento County. We come to the vehicle location — your advantage is you don&apos;t need to arrange transporting a vehicle you haven&apos;t bought yet. See our full <Link href="/services/pre-purchase-inspection-sacramento" className="text-orange-500 hover:underline">pre-purchase inspection service page</Link> for details, or call (916) 555-0100 to schedule. We typically offer same-day or next-day availability for inspections.</p>
+          <p className="text-gray-700 mb-4">EC Mobile Auto Services offers pre-purchase inspections throughout Sacramento County. We come to the vehicle location — your advantage is you don&apos;t need to arrange transporting a vehicle you haven&apos;t bought yet. See our full <Link href="/services/pre-purchase-inspection-sacramento" className="text-orange-500 hover:underline">pre-purchase inspection service page</Link> for details, or call (916) 517-3286 to schedule. We typically offer same-day or next-day availability for inspections.</p>
         </div>
       </article>
 
@@ -135,7 +135,7 @@ export default function PrePurchaseInspectionBlogPage() {
         </div>
       </section>
 
-      <CTASection heading="Buying a Used Car? Get a PPI First." subheading="We come to the vehicle location anywhere in Sacramento County. Call (916) 555-0100 to book your inspection." />
+      <CTASection heading="Buying a Used Car? Get a PPI First." subheading="We come to the vehicle location anywhere in Sacramento County. Call (916) 517-3286 to book your inspection." />
     </>
   );
 }

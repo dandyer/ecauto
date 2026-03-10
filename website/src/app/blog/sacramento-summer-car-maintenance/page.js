@@ -108,7 +108,7 @@ export default function SummerCarMaintenancePage() {
             ))}
           </ul>
 
-          <p className="text-gray-700 mb-4">EC Mobile Auto Services can handle all of the above at your Sacramento home or office. Call (916) 555-0100 to book a pre-summer vehicle check — we&apos;ll go through the whole list and flag anything that needs attention before the summer heat peaks.</p>
+          <p className="text-gray-700 mb-4">EC Mobile Auto Services can handle all of the above at your Sacramento home or office. Call (916) 517-3286 to book a pre-summer vehicle check — we&apos;ll go through the whole list and flag anything that needs attention before the summer heat peaks.</p>
         </div>
       </article>
 
@@ -129,7 +129,7 @@ export default function SummerCarMaintenancePage() {
         </div>
       </section>
 
-      <CTASection heading="Beat the Summer Heat — Book a Pre-Season Check" subheading="We come to your Sacramento home or office. Call (916) 555-0100 to schedule today." />
+      <CTASection heading="Beat the Summer Heat — Book a Pre-Season Check" subheading="We come to your Sacramento home or office. Call (916) 517-3286 to schedule today." />
     </>
   );
 }

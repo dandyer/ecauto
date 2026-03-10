@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Sacramento CA | EC Mobile Auto Services LLC',
   description:
-    'Mobile mechanic serving all of Sacramento, CA. Oil changes, brakes, batteries, diagnostics & more — we come to you. Same-day available. Call (916) 555-0100.',
+    'Mobile mechanic serving all of Sacramento, CA. Oil changes, brakes, batteries, diagnostics & more — we come to you. Same-day available. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-sacramento' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC',
   description: 'Mobile mechanic serving all neighborhoods in Sacramento, CA.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com',
   address: {
     '@type': 'PostalAddress',
@@ -62,7 +62,7 @@ export default function MechanicSacramentoPage() {
             EC Mobile Auto Services is Sacramento&apos;s locally owned mobile mechanic. We serve all Sacramento neighborhoods — your home, office, apartment, or roadside.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -92,7 +92,7 @@ export default function MechanicSacramentoPage() {
               </div>
             ))}
           </div>
-          <p className="text-center text-gray-500 text-sm mt-6">Don&apos;t see your neighborhood? Call us — we likely cover it. (916) 555-0100</p>
+          <p className="text-center text-gray-500 text-sm mt-6">Don&apos;t see your neighborhood? Call us — we likely cover it. (916) 517-3286</p>
         </div>
       </section>
 

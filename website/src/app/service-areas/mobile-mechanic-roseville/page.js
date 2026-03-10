@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Roseville CA | EC Mobile Auto Services LLC',
   description:
-    'Mobile mechanic serving Roseville, CA (Placer County). Oil changes, brakes, batteries & more. We come to you in West Roseville, Galleria area, and beyond. Call (916) 555-0100.',
+    'Mobile mechanic serving Roseville, CA (Placer County). Oil changes, brakes, batteries & more. We come to you in West Roseville, Galleria area, and beyond. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-roseville' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Roseville',
   description: 'Mobile mechanic serving Roseville, CA in Placer County.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-roseville',
   areaServed: { '@type': 'City', name: 'Roseville', containedIn: { '@type': 'State', name: 'California' } },
 };
@@ -34,7 +34,7 @@ export default function MechanicRosevillePage() {
             EC Mobile Auto Services extends into Placer County, serving Roseville&apos;s growing communities with professional mobile auto repair. From West Roseville to the Galleria area — we come to you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

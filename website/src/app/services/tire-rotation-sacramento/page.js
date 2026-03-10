@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Tire Rotation Sacramento CA | EC Mobile Auto Services',
   description:
-    'Mobile tire rotation service in Sacramento, CA. Extend tire life and improve safety. We come to you. Starting at $30. Call (916) 555-0100.',
+    'Mobile tire rotation service in Sacramento, CA. Extend tire life and improve safety. We come to you. Starting at $30. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/tire-rotation-sacramento' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   offers: [{ '@type': 'Offer', name: 'Tire Rotation', price: '30', priceCurrency: 'USD' }],
@@ -63,7 +63,7 @@ export default function TireRotationPage() {
             Skip the tire shop wait. We rotate your tires at your home or workplace — a simple service that can add 20,000+ miles to your tire lifespan.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

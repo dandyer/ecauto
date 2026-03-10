@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Rancho Cordova CA | EC Mobile Auto Services LLC',
   description:
-    'Mobile mechanic serving Rancho Cordova, CA. We come to your home or office for oil changes, brakes, batteries, and more. Call (916) 555-0100.',
+    'Mobile mechanic serving Rancho Cordova, CA. We come to your home or office for oil changes, brakes, batteries, and more. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/service-areas/mobile-mechanic-rancho-cordova' },
 };
 
@@ -14,7 +14,7 @@ const localBusinessSchema = {
   '@type': 'AutoRepair',
   name: 'EC Mobile Auto Services LLC — Rancho Cordova',
   description: 'Mobile mechanic serving Rancho Cordova, CA.',
-  telephone: '+19165550100',
+  telephone: '+19165173286',
   url: 'https://ecmobileauto.com/service-areas/mobile-mechanic-rancho-cordova',
   areaServed: { '@type': 'City', name: 'Rancho Cordova', containedIn: { '@type': 'State', name: 'California' } },
 };
@@ -34,7 +34,7 @@ export default function MechanicRanchoCordovaPage() {
             Professional mobile auto repair in Rancho Cordova. We service your vehicle at home, at work, or anywhere you&apos;re parked — no shop trip required.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>

@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Oil Change in Citrus Heights, CA | EC Mobile Auto Services',
   description:
-    'Mobile oil change in Citrus Heights, CA. We come to your home or Sunrise Marketplace area. Conventional, synthetic & high-mileage. Call (916) 555-0100.',
+    'Mobile oil change in Citrus Heights, CA. We come to your home or Sunrise Marketplace area. Conventional, synthetic & high-mileage. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-oil-change-citrus-heights' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: { '@type': 'City', name: 'Citrus Heights', containedIn: { '@type': 'State', name: 'California' } },
@@ -46,7 +46,7 @@ const faqSchema = {
     {
       '@type': 'Question',
       name: 'How quickly can you come to Citrus Heights?',
-      acceptedAnswer: { '@type': 'Answer', text: 'We often have same-day availability in Citrus Heights. Call (916) 555-0100 early in the day for the best chance at a same-day appointment. Next-day is almost always available.' },
+      acceptedAnswer: { '@type': 'Answer', text: 'We often have same-day availability in Citrus Heights. Call (916) 517-3286 early in the day for the best chance at a same-day appointment. Next-day is almost always available.' },
     },
   ],
 };
@@ -62,7 +62,7 @@ const faqs = [
   },
   {
     question: 'How quickly can you come to Citrus Heights?',
-    answer: 'We often have same-day availability in Citrus Heights. Call (916) 555-0100 early in the day for the best chance at a same-day appointment. Next-day is almost always available.',
+    answer: 'We often have same-day availability in Citrus Heights. Call (916) 517-3286 early in the day for the best chance at a same-day appointment. Next-day is almost always available.',
   },
 ];
 
@@ -90,7 +90,7 @@ export default function OilChangeCitrusHeightsPage() {
             Citrus Heights residents skip the Sunrise Blvd shop lines. We come to your home or apartment and complete your oil change in under 30 minutes — no appointment hassle, no waiting room.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function OilChangeCitrusHeightsPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready for a Mobile Oil Change in Citrus Heights?" subheading="We come to you anywhere in Citrus Heights. Call (916) 555-0100 to book today." />
+      <CTASection heading="Ready for a Mobile Oil Change in Citrus Heights?" subheading="We come to you anywhere in Citrus Heights. Call (916) 517-3286 to book today." />
     </>
   );
 }

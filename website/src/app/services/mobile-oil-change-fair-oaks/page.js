@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Oil Change in Fair Oaks, CA | EC Mobile Auto Services',
   description:
-    'Mobile oil change in Fair Oaks, CA. We come to your home near the Village or American River. Conventional, synthetic & high-mileage. Call (916) 555-0100.',
+    'Mobile oil change in Fair Oaks, CA. We come to your home near the Village or American River. Conventional, synthetic & high-mileage. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-oil-change-fair-oaks' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: { '@type': 'Place', name: 'Fair Oaks', containedIn: { '@type': 'State', name: 'California' } },
@@ -90,7 +90,7 @@ export default function OilChangeFairOaksPage() {
             Fair Oaks homeowners enjoy the convenience of in-driveway oil changes. We come to your home near the Village, Sailor Bar, or anywhere in Fair Oaks and complete your oil change while you stay home.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function OilChangeFairOaksPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready for a Mobile Oil Change in Fair Oaks?" subheading="We come to your Fair Oaks driveway. Call (916) 555-0100 to book — same-day often available." />
+      <CTASection heading="Ready for a Mobile Oil Change in Fair Oaks?" subheading="We come to your Fair Oaks driveway. Call (916) 517-3286 to book — same-day often available." />
     </>
   );
 }

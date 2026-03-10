@@ -152,7 +152,7 @@ export default function HowMuchMobileMechanicCostPage() {
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">Bottom Line</h2>
           <p className="text-gray-700 mb-4">Mobile mechanic costs in Sacramento are competitive with traditional shops for most common services, and the convenience factor makes the value proposition even stronger. The most important thing is to work with a licensed, insured provider who is transparent about pricing before work begins.</p>
-          <p className="text-gray-700 mb-4">EC Mobile Auto Services offers upfront pricing, no trip fees, and a 90-day labor warranty. See our full <Link href="/pricing" className="text-orange-500 hover:underline">pricing page</Link> for a complete breakdown, or call (916) 555-0100 for a free quote on your specific vehicle and service.</p>
+          <p className="text-gray-700 mb-4">EC Mobile Auto Services offers upfront pricing, no trip fees, and a 90-day labor warranty. See our full <Link href="/pricing" className="text-orange-500 hover:underline">pricing page</Link> for a complete breakdown, or call (916) 517-3286 for a free quote on your specific vehicle and service.</p>
         </div>
       </article>
 
@@ -181,7 +181,7 @@ export default function HowMuchMobileMechanicCostPage() {
         </div>
       </section>
 
-      <CTASection heading="Get a Free Quote Today" subheading="Call (916) 555-0100 or book online. We'll give you an upfront price before we begin." />
+      <CTASection heading="Get a Free Quote Today" subheading="Call (916) 517-3286 or book online. We'll give you an upfront price before we begin." />
     </>
   );
 }

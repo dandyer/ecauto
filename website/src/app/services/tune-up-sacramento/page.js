@@ -6,7 +6,7 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Mobile Tune-Up Service in Sacramento, CA | EC Mobile Auto Services',
   description:
-    'Restore engine performance and fuel economy with a mobile tune-up in Sacramento. Spark plugs, air filters, ignition service — we come to you. Call (916) 555-0100.',
+    'Restore engine performance and fuel economy with a mobile tune-up in Sacramento. Spark plugs, air filters, ignition service — we come to you. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/tune-up-sacramento' },
 };
 
@@ -14,7 +14,7 @@ const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Mobile Tune-Up Service Sacramento',
-  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165550100' },
+  provider: { '@type': 'LocalBusiness', name: 'EC Mobile Auto Services LLC', telephone: '+19165173286' },
   areaServed: { '@type': 'City', name: 'Sacramento' },
   description: 'Mobile engine tune-up service in Sacramento CA. Spark plug replacement, air filter, ignition system inspection performed at your location.',
   offers: { '@type': 'Offer', priceCurrency: 'USD', price: '150', description: 'Tune-up starting price' },
@@ -63,7 +63,7 @@ export default function TuneUpPage() {
             Rough idle, poor gas mileage, sluggish acceleration? A tune-up brings your engine back to life. We perform spark plug replacement, air filter service, and ignition system checks right at your location.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-center text-lg px-8 py-4">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-center text-lg px-8 py-4">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-center text-lg px-8 py-4">Book Online</Link>
           </div>
         </div>
@@ -98,7 +98,7 @@ export default function TuneUpPage() {
           <h2 className="text-xl font-bold text-blue-900 mb-2">Tune-Up Pricing</h2>
           <p className="text-gray-600 mb-1">Starting at <span className="text-2xl font-extrabold text-orange-500">$150</span></p>
           <p className="text-gray-500 text-sm mb-4">Final price depends on vehicle, number of spark plugs, and plug type (conventional vs. iridium/platinum). We quote before we start.</p>
-          <a href="tel:9165550100" className="btn-primary px-8 py-3 inline-block">Call for a Quote</a>
+          <a href="tel:9165173286" className="btn-primary px-8 py-3 inline-block">Call for a Quote</a>
         </div>
       </section>
 

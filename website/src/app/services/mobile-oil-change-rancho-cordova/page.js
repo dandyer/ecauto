@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Oil Change in Rancho Cordova, CA | EC Mobile Auto Services',
   description:
-    'Mobile oil change in Rancho Cordova, CA. We come to your home, apartment, or Sunrise area office. Conventional, full synthetic & high-mileage. Call (916) 555-0100.',
+    'Mobile oil change in Rancho Cordova, CA. We come to your home, apartment, or Sunrise area office. Conventional, full synthetic & high-mileage. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-oil-change-rancho-cordova' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: { '@type': 'City', name: 'Rancho Cordova', containedIn: { '@type': 'State', name: 'California' } },
@@ -90,7 +90,7 @@ export default function OilChangeRanchoCordovaPage() {
             Skip the Sunrise Blvd traffic and the shop wait. We come to your Rancho Cordova home, apartment, or office parking lot and complete your oil change in under 30 minutes.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function OilChangeRanchoCordovaPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready for a Mobile Oil Change in Rancho Cordova?" subheading="We come to your home, apartment, or office. Call (916) 555-0100 to book." />
+      <CTASection heading="Ready for a Mobile Oil Change in Rancho Cordova?" subheading="We come to your home, apartment, or office. Call (916) 517-3286 to book." />
     </>
   );
 }

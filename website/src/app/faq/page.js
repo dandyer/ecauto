@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'FAQ — Mobile Mechanic Sacramento CA | EC Mobile Auto Services',
   description:
-    'Frequently asked questions about EC Mobile Auto Services LLC. Pricing, scheduling, service areas, what we work on, and more. Call (916) 555-0100.',
+    'Frequently asked questions about EC Mobile Auto Services LLC. Pricing, scheduling, service areas, what we work on, and more. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/faq' },
 };
 
@@ -25,11 +25,11 @@ const allFaqs = [
   },
   {
     question: 'What service areas do you cover?',
-    answer: 'We serve Sacramento, Elk Grove, Rancho Cordova, Roseville, Folsom, Citrus Heights, Carmichael, Fair Oaks, Antelope, North Highlands, and Orangevale. If you\'re unsure whether we cover your area, call (916) 555-0100 and we\'ll let you know.',
+    answer: 'We serve Sacramento, Elk Grove, Rancho Cordova, Roseville, Folsom, Citrus Heights, Carmichael, Fair Oaks, Antelope, North Highlands, and Orangevale. If you\'re unsure whether we cover your area, call (916) 517-3286 and we\'ll let you know.',
   },
   {
     question: 'How do I book a mobile mechanic appointment?',
-    answer: 'The easiest way is to call (916) 555-0100. You can also text or book through our online contact form. We\'ll confirm your appointment time, your location, your vehicle details, and the service needed. Same-day and next-day appointments are often available.',
+    answer: 'The easiest way is to call (916) 517-3286. You can also text or book through our online contact form. We\'ll confirm your appointment time, your location, your vehicle details, and the service needed. Same-day and next-day appointments are often available.',
   },
   {
     question: 'What vehicles do you work on?',
@@ -49,7 +49,7 @@ const allFaqs = [
   },
   {
     question: 'Do you offer same-day service?',
-    answer: 'We do our best to accommodate same-day requests, especially for oil changes and battery replacements. Availability depends on our current schedule. Call (916) 555-0100 as early in the day as possible for the best chance of same-day service.',
+    answer: 'We do our best to accommodate same-day requests, especially for oil changes and battery replacements. Availability depends on our current schedule. Call (916) 517-3286 as early in the day as possible for the best chance of same-day service.',
   },
   {
     question: 'Are you licensed and insured?',
@@ -99,7 +99,7 @@ export default function FAQPage() {
             Frequently Asked Questions — EC Mobile Auto Services
           </h1>
           <p className="text-blue-200 text-xl max-w-2xl">
-            Everything you want to know about mobile mechanic service in Sacramento. Can&apos;t find your answer? Call (916) 555-0100 — we&apos;re happy to help.
+            Everything you want to know about mobile mechanic service in Sacramento. Can&apos;t find your answer? Call (916) 517-3286 — we&apos;re happy to help.
           </p>
         </div>
       </section>

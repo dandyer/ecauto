@@ -142,7 +142,7 @@ export default function MobileMechanicVsShopPage() {
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">Our Honest Take</h2>
           <p className="text-gray-700 mb-4">As the owner of a mobile mechanic service, you might expect me to say mobile is always better. It&apos;s not — and I&apos;d rather be honest with you than oversell our service. There are jobs that need a shop, and I&apos;ll always tell you when that&apos;s the case.</p>
           <p className="text-gray-700 mb-4">But for the vast majority of the services Sacramento drivers need most — oil changes, brakes, batteries, diagnostics, tire rotations — mobile service delivers the same quality work with dramatically better convenience and comparable or lower cost.</p>
-          <p className="text-gray-700 mb-4">See our full <Link href="/pricing" className="text-orange-500 hover:underline">pricing page</Link> and <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">services we offer</Link> to decide if mobile is right for your situation. Or just call (916) 555-0100 — I&apos;m happy to give you an honest recommendation.</p>
+          <p className="text-gray-700 mb-4">See our full <Link href="/pricing" className="text-orange-500 hover:underline">pricing page</Link> and <Link href="/services/mobile-oil-change-sacramento" className="text-orange-500 hover:underline">services we offer</Link> to decide if mobile is right for your situation. Or just call (916) 517-3286 — I&apos;m happy to give you an honest recommendation.</p>
         </div>
       </article>
 
@@ -160,7 +160,7 @@ export default function MobileMechanicVsShopPage() {
         </div>
       </section>
 
-      <CTASection heading="Try Mobile Auto Service Risk-Free" subheading="Call (916) 555-0100 for an upfront quote. Same-day appointments often available across Sacramento County." />
+      <CTASection heading="Try Mobile Auto Service Risk-Free" subheading="Call (916) 517-3286 for an upfront quote. Same-day appointments often available across Sacramento County." />
     </>
   );
 }

@@ -6,7 +6,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Oil Change in Carmichael, CA | EC Mobile Auto Services',
   description:
-    'Mobile oil change in Carmichael, CA. We come to your home or apartment on Manzanita or Fair Oaks Blvd. Conventional, synthetic & high-mileage. Call (916) 555-0100.',
+    'Mobile oil change in Carmichael, CA. We come to your home or apartment on Manzanita or Fair Oaks Blvd. Conventional, synthetic & high-mileage. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/services/mobile-oil-change-carmichael' },
 };
 
@@ -18,7 +18,7 @@ const serviceSchema = {
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
-    telephone: '+19165550100',
+    telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
   areaServed: { '@type': 'Place', name: 'Carmichael', containedIn: { '@type': 'State', name: 'California' } },
@@ -46,7 +46,7 @@ const faqSchema = {
     {
       '@type': 'Question',
       name: 'How do I schedule a mobile oil change in Carmichael?',
-      acceptedAnswer: { '@type': 'Answer', text: 'Call (916) 555-0100 or use our online booking form. Tell us your vehicle make, model, year, and your Carmichael address. We\'ll confirm a time window that works for you — often same-day or next-day.' },
+      acceptedAnswer: { '@type': 'Answer', text: 'Call (916) 517-3286 or use our online booking form. Tell us your vehicle make, model, year, and your Carmichael address. We\'ll confirm a time window that works for you — often same-day or next-day.' },
     },
   ],
 };
@@ -62,7 +62,7 @@ const faqs = [
   },
   {
     question: 'How do I schedule a mobile oil change in Carmichael?',
-    answer: "Call (916) 555-0100 or use our online booking form. Tell us your vehicle make, model, year, and your Carmichael address. We'll confirm a time window that works for you — often same-day or next-day.",
+    answer: "Call (916) 517-3286 or use our online booking form. Tell us your vehicle make, model, year, and your Carmichael address. We'll confirm a time window that works for you — often same-day or next-day.",
   },
 ];
 
@@ -90,7 +90,7 @@ export default function OilChangeCarmichaelPage() {
             Carmichael homeowners and apartment residents get professional oil changes at their location. No need to navigate Fair Oaks Blvd traffic — we come to your driveway or parking spot.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:9165550100" className="btn-primary text-lg">📞 Call (916) 555-0100</a>
+            <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>
             <Link href="/contact" className="btn-secondary text-lg">Book Online →</Link>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function OilChangeCarmichaelPage() {
         </div>
       </section>
 
-      <CTASection heading="Ready for a Mobile Oil Change in Carmichael?" subheading="We come to your home or apartment in Carmichael. Call (916) 555-0100 — same-day often available." />
+      <CTASection heading="Ready for a Mobile Oil Change in Carmichael?" subheading="We come to your home or apartment in Carmichael. Call (916) 517-3286 — same-day often available." />
     </>
   );
 }

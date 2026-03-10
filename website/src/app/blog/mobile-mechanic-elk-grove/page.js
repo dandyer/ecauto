@@ -105,7 +105,7 @@ export default function MobileMechanicElkGroveBlogPage() {
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">EC Mobile Auto Services in Elk Grove</h2>
           <p className="text-gray-700 mb-4">EC Mobile Auto Services, owned by Enrique Castillo, is a Sacramento-based mobile mechanic operation that serves all of Elk Grove — from Franklin and Sheldon in the south to Laguna West and Vineyard in the north. We carry general liability insurance, provide upfront written quotes, and have built our business on honest, transparent service.</p>
-          <p className="text-gray-700 mb-4">Elk Grove is one of our most active service areas. We offer <Link href="/services/mobile-oil-change-elk-grove" className="text-orange-500 hover:underline">mobile oil changes in Elk Grove</Link> starting at $65, along with brake service, battery replacement, and diagnostics. Visit our <Link href="/service-areas/mobile-mechanic-elk-grove" className="text-orange-500 hover:underline">Elk Grove service area page</Link> for full details, or call (916) 555-0100 to discuss your specific needs.</p>
+          <p className="text-gray-700 mb-4">Elk Grove is one of our most active service areas. We offer <Link href="/services/mobile-oil-change-elk-grove" className="text-orange-500 hover:underline">mobile oil changes in Elk Grove</Link> starting at $65, along with brake service, battery replacement, and diagnostics. Visit our <Link href="/service-areas/mobile-mechanic-elk-grove" className="text-orange-500 hover:underline">Elk Grove service area page</Link> for full details, or call (916) 517-3286 to discuss your specific needs.</p>
         </div>
       </article>
 
@@ -123,7 +123,7 @@ export default function MobileMechanicElkGroveBlogPage() {
         </div>
       </section>
 
-      <CTASection heading="Elk Grove&apos;s Trusted Mobile Mechanic" subheading="Call (916) 555-0100 or book online. We come to your Elk Grove home, apartment, or office." />
+      <CTASection heading="Elk Grove&apos;s Trusted Mobile Mechanic" subheading="Call (916) 517-3286 or book online. We come to your Elk Grove home, apartment, or office." />
     </>
   );
 }
