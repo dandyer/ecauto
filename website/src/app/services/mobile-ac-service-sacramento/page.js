@@ -228,7 +228,7 @@ export default function MobileACServicePage() {
       <section className="py-14 px-4 bg-white">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl font-bold text-blue-900 mb-8">AC Service FAQ</h2>
-          <FAQAccordion items={faqs} />
+          <FAQAccordion faqs={faqs} />
         </div>
       </section>
 
