@@ -7,7 +7,7 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const navLinks = [
-    { href: '/services/mobile-oil-change-sacramento', label: 'Services' },
+    { href: '/services', label: 'Services' },
     { href: '/service-areas/mobile-mechanic-sacramento', label: 'Service Areas' },
     { href: '/pricing', label: 'Pricing' },
     { href: '/about', label: 'About' },

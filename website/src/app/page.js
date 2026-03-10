@@ -111,6 +111,30 @@ const services = [
     href: '/services/mobile-check-engine-sacramento',
   },
   {
+    icon: '❄️',
+    title: 'AC Service & Recharge',
+    description: "Sacramento summers hit 100°F+. We recharge and inspect your AC system on-site so you're not sweating it out.",
+    href: '/services/mobile-ac-service-sacramento',
+  },
+  {
+    icon: '🌡️',
+    title: 'Coolant Flush',
+    description: 'Prevent overheating in Sacramento heat. We flush and refill your cooling system at your location.',
+    href: '/services/coolant-flush-sacramento',
+  },
+  {
+    icon: '🔧',
+    title: 'Tune-Up Service',
+    description: 'Spark plugs, air filters, and ignition service to restore engine performance and fuel economy.',
+    href: '/services/tune-up-sacramento',
+  },
+  {
+    icon: '⚙️',
+    title: 'Serpentine Belt',
+    description: 'A snapped belt leaves you stranded. We inspect and replace belts before they fail — at your home or office.',
+    href: '/services/serpentine-belt-sacramento',
+  },
+  {
     icon: '🔄',
     title: 'Tire Rotation',
     description: 'Regular tire rotations extend the life of your tires. We handle it at your location — no waiting at a tire shop.',

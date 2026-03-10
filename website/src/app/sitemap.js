@@ -11,9 +11,14 @@ export default function sitemap() {
     { url: '/blog', changeFrequency: 'weekly', priority: 0.8 },
 
     // Services
+    { url: '/services', changeFrequency: 'monthly', priority: 0.9 },
     { url: '/services/mobile-oil-change-sacramento', changeFrequency: 'monthly', priority: 0.9 },
     { url: '/services/mobile-brake-service-sacramento', changeFrequency: 'monthly', priority: 0.8 },
     { url: '/services/mobile-battery-replacement-sacramento', changeFrequency: 'monthly', priority: 0.8 },
+    { url: '/services/mobile-ac-service-sacramento', changeFrequency: 'monthly', priority: 0.9 },
+    { url: '/services/coolant-flush-sacramento', changeFrequency: 'monthly', priority: 0.8 },
+    { url: '/services/tune-up-sacramento', changeFrequency: 'monthly', priority: 0.8 },
+    { url: '/services/serpentine-belt-sacramento', changeFrequency: 'monthly', priority: 0.7 },
     { url: '/services/pre-purchase-inspection-sacramento', changeFrequency: 'monthly', priority: 0.8 },
     { url: '/services/mobile-check-engine-sacramento', changeFrequency: 'monthly', priority: 0.8 },
     { url: '/services/tire-rotation-sacramento', changeFrequency: 'monthly', priority: 0.7 },
