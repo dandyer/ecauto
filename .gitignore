@@ -51,6 +51,13 @@ yarn-error.log*
 .config/
 .cache/
 
+# Claude Code local settings
+.claude/
+
+# Generated files
+*.pdf
+generate_presentation.py
+
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
