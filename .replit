@@ -36,4 +36,4 @@ externalPort = 80
 [deployment]
 build = ["sh", "-c", "cd website && npm install && npm run build"]
 run = ["sh", "-c", "cd website && npm run start"]
-deploymentTarget = "cloudrun"
+deploymentTarget = "autoscale"
