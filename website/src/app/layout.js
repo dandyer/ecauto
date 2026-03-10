@@ -1,4 +1,5 @@
 import './globals.css';
+import Script from 'next/script';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
@@ -25,6 +26,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <Script src="https://analyticlunch.com/t.js" data-id="site_150ce970" strategy="afterInteractive" />
+      </head>
       <body className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-1">{children}</main>
