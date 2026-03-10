@@ -1,0 +1,10 @@
+run = "npm run dev"
+entrypoint = "src/app/page.js"
+
+[deployment]
+run = ["sh", "-c", "npm run build && npm run start"]
+deploymentTarget = "autoscale"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
