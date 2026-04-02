@@ -5,7 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'About EC Mobile Auto Services LLC — Sacramento\'s Mobile Mechanic',
   description:
-    'Meet Enrique Castillo, owner of EC Mobile Auto Services LLC. Sacramento-born mobile mechanic with a passion for honest, convenient auto repair. Call (916) 517-3286.',
+    'Meet Enrique Castillo, ASE-certified owner of EC Mobile Auto Services LLC with 30+ years of Import and Domestic Automotive experience. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com/about' },
 };
 
@@ -20,7 +20,7 @@ const personSchema = {
     telephone: '+19165173286',
     address: { '@type': 'PostalAddress', addressLocality: 'Sacramento', addressRegion: 'CA' },
   },
-  description: 'Sacramento-born and raised auto mechanic and owner of EC Mobile Auto Services LLC, providing mobile auto repair across Sacramento County.',
+  description: 'ASE-certified owner of EC Mobile Auto Services LLC with over thirty years of Import and Domestic Automotive experience, providing mobile auto repair across Sacramento County.',
 };
 
 const values = [
@@ -66,10 +66,10 @@ export default function AboutPage() {
                 <span>📍</span> <span>Born &amp; raised in Sacramento, CA</span>
               </div>
               <div className="flex items-center gap-2 text-sm text-gray-700">
-                <span>🔧</span> <span>10+ years of auto repair experience</span>
+                <span>🔧</span> <span>30+ years of automotive experience</span>
               </div>
               <div className="flex items-center gap-2 text-sm text-gray-700">
-                <span>✅</span> <span>Licensed &amp; fully insured</span>
+                <span>✅</span> <span>ASE Certified &amp; fully insured</span>
               </div>
               <div className="flex items-center gap-2 text-sm text-gray-700">
                 <span>🚗</span> <span>All makes &amp; models</span>
@@ -79,14 +79,11 @@ export default function AboutPage() {
 
           {/* Story */}
           <div className="md:col-span-2">
-            <h2 className="section-heading">The Story Behind EC Mobile Auto</h2>
+            <h2 className="section-heading">Meet Enrique Castillo</h2>
             <div className="space-y-4 text-gray-700">
-              <p>Enrique Castillo has been fascinated by cars since he was a kid growing up in Sacramento, spending weekends in the driveway learning how engines worked alongside his uncle. What started as a hobby became a calling. By his early twenties, he was working at an independent shop in Sacramento, turning wrenches on everything from daily-driver sedans to weekend project cars.</p>
-              <p>Over more than a decade in the trade, Enrique noticed a pattern: most of his customers dreaded bringing their car in. The commute, the wait, the uncertainty about what they were being charged for, the shuttle arrangement — it added stress to an already inconvenient situation. He believed there was a better way.</p>
-              <p>In 2022, Enrique launched EC Mobile Auto Services LLC with a simple mission: bring professional auto repair to the customer, not the other way around. He invested in professional-grade tools and equipment, built a network of parts suppliers for quick sourcing, and started serving his Sacramento neighbors one driveway at a time.</p>
-              <p>Today, EC Mobile Auto Services is a growing business serving drivers across Sacramento County — from Natomas to Elk Grove, from Folsom to Citrus Heights. Every job is personal. Enrique&apos;s name is on every vehicle he works on, and that accountability drives everything he does.</p>
-              <p className="font-medium text-blue-900 italic">&ldquo;I started this business because I wanted to be the mechanic I wish I could have found when I was struggling to keep my own car running on a tight budget. Honest work, fair prices, and I come to you. That&apos;s it.&rdquo;</p>
-              <p className="text-sm text-gray-500">— Enrique Castillo, Owner, EC Mobile Auto Services LLC</p>
+              <p>As the proud owner of EC Mobile Auto Services, Enrique Castillo believes in making your life as simple and convenient as possible. Enrique brings Automotive Service Excellence certification and over thirty years of Import and Domestic Automotive experience to your door.</p>
+              <p>At EC Mobile Auto Services it&apos;s important to provide maintenance service in doing so it helps the longevity of your vehicle and also prevents high cost unexpected repairs.</p>
+              <p>From routine maintenance to larger scale repairs, ECMAS can be there with all of the tools, skills, and experience to get the job done right the first time.</p>
             </div>
           </div>
         </div>
