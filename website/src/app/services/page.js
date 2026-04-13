@@ -163,7 +163,7 @@ export default function ServicesPage() {
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             {[
-              { icon: '🚗', label: 'We Come to You', sub: 'Home, work, or roadside' },
+              { icon: '🚗', label: 'We Come to You', sub: 'Home or work' },
               { icon: '💰', label: 'Transparent Pricing', sub: 'No surprises, no trip fee' },
               { icon: '⏱️', label: 'Same-Day Available', sub: 'Call to check availability' },
               { icon: '🛡️', label: 'Licensed & Insured', sub: 'Fully covered work' },

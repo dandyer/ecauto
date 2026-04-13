@@ -59,7 +59,7 @@ export default function MechanicSacramentoPage() {
             Mobile Mechanic in Sacramento, CA
           </h1>
           <p className="text-blue-200 text-xl mb-8 max-w-2xl">
-            EC Mobile Auto Services is Sacramento&apos;s locally owned mobile mechanic. We serve all Sacramento neighborhoods — your home, office, apartment, or roadside.
+            EC Mobile Auto Services is Sacramento&apos;s locally owned mobile mechanic. We serve all Sacramento neighborhoods — your home, office, or apartment.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a href="tel:9165173286" className="btn-primary text-lg">📞 Call (916) 517-3286</a>

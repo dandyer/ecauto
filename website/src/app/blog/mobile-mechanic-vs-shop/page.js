@@ -48,7 +48,7 @@ export default function MobileMechanicVsShopPage() {
           </div>
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">What Is a Mobile Mechanic?</h2>
-          <p className="text-gray-700 mb-4">A mobile mechanic is a licensed auto technician who travels to your location — home, office, parking lot, or roadside — with all the tools and parts needed to service your vehicle on-site. Instead of you going to the shop, the shop comes to you.</p>
+          <p className="text-gray-700 mb-4">A mobile mechanic is a licensed auto technician who travels to your location — home, office, or parking lot — with all the tools and parts needed to service your vehicle on-site. Instead of you going to the shop, the shop comes to you.</p>
           <p className="text-gray-700 mb-4">Mobile mechanics in Sacramento like <Link href="/about" className="text-orange-500 hover:underline">EC Mobile Auto Services LLC</Link> handle everything from oil changes and brake service to battery replacement and diagnostic work. The work is the same as a shop — the location is different.</p>
 
           <h2 className="text-2xl font-bold text-blue-900 mt-8 mb-4">Head-to-Head Comparison</h2>

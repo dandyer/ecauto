@@ -79,7 +79,7 @@ After verifying, go to **Info → Edit → Category → Add another category**. 
 ### Step 9 — Write the Business Description
 Copy and paste this (edit phone number and any details):
 
-> EC Mobile Auto Services LLC brings professional auto repair directly to you in Sacramento and surrounding cities. We offer mobile oil changes, brake service, battery replacement, diagnostic checks, and general auto repair at your home, workplace, or roadside — no shop visit required. Serving Sacramento, Elk Grove, Rancho Cordova, Roseville, Folsom, Citrus Heights, Carmichael, and all of Sacramento County. Licensed, insured, and operated by Enrique Castillo.
+> EC Mobile Auto Services LLC brings professional auto repair directly to you in Sacramento and surrounding cities. We offer mobile oil changes, brake service, battery replacement, diagnostic checks, and general auto repair at your home or workplace — no shop visit required. Serving Sacramento, Elk Grove, Rancho Cordova, Roseville, Folsom, Citrus Heights, Carmichael, and all of Sacramento County. Licensed, insured, and operated by Enrique Castillo.
 
 > **750 character limit** — this description is optimized to fit within it.
 

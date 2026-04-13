@@ -14,7 +14,7 @@ const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Mobile Battery Replacement Sacramento CA',
-  description: 'Mobile car battery testing and replacement service in Sacramento, CA. We come to your home, office, or roadside. Free battery test included.',
+  description: 'Mobile car battery testing and replacement service in Sacramento, CA. We come to your home or office. Free battery test included.',
   provider: {
     '@type': 'AutoRepair',
     name: 'EC Mobile Auto Services LLC',
@@ -154,7 +154,7 @@ export default function MobileBatteryPage() {
         </div>
       </section>
 
-      <CTASection heading="Stranded? We Can Help." subheading="Call now for mobile battery testing and same-day replacement in Sacramento County." />
+      <CTASection heading="Need a New Battery?" subheading="Call now for mobile battery testing and same-day replacement at your home or office in Sacramento County." />
     </>
   );
 }

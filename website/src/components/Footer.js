@@ -13,7 +13,7 @@ export default function Footer() {
               <span className="text-2xl">🔧</span>
               <span className="text-white font-bold text-lg">EC Mobile Auto Services LLC</span>
             </div>
-            <p className="text-blue-300 text-sm mb-4">Sacramento&apos;s Mobile Mechanic — We come to your home, office, or roadside.</p>
+            <p className="text-blue-300 text-sm mb-4">Sacramento&apos;s Mobile Mechanic — We come to your home or office.</p>
             <a
               href="tel:9165173286"
               className="inline-block text-orange-400 hover:text-orange-300 font-bold text-lg transition-colors"

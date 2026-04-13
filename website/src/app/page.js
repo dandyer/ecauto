@@ -8,7 +8,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 export const metadata = {
   title: 'Mobile Mechanic Sacramento CA | EC Mobile Auto Services LLC',
   description:
-    'Need a mobile mechanic in Sacramento? EC Mobile Auto Services comes to your home, office, or roadside. Same-day oil changes, brakes, batteries & more. Call (916) 517-3286.',
+    'Need a mobile mechanic in Sacramento? EC Mobile Auto Services comes to your home or office. Same-day oil changes, brakes, batteries & more. Call (916) 517-3286.',
   alternates: { canonical: 'https://ecmobileauto.com' },
 };
 
@@ -220,7 +220,7 @@ export default function HomePage() {
             Sacramento&apos;s Mobile Mechanic —<br className="hidden md:block" /> We Come to You
           </h1>
           <p className="text-blue-200 text-xl md:text-2xl mb-10 max-w-3xl mx-auto leading-relaxed">
-            Skip the shop. EC Mobile Auto Services sends a professional mechanic directly to your home, office, or roadside — for oil changes, brakes, batteries, and more.
+            Skip the shop. EC Mobile Auto Services sends a professional mechanic directly to your home or office — for oil changes, brakes, batteries, and more.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a
@@ -258,7 +258,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               { step: '1', icon: '📱', title: 'Book Your Appointment', desc: 'Call (916) 517-3286 or fill out our online form. Tell us what your car needs and where you are. We\'ll confirm a time that works for you.' },
-              { step: '2', icon: '🚐', title: 'We Arrive at Your Location', desc: 'Our mechanic shows up at your home, office, parking lot, or roadside — fully equipped with tools, parts, and everything needed to get the job done.' },
+              { step: '2', icon: '🚐', title: 'We Arrive at Your Location', desc: 'Our mechanic shows up at your home, office, or parking lot — fully equipped with tools, parts, and everything needed to get the job done.' },
               { step: '3', icon: '✅', title: 'Drive Away Happy', desc: 'We complete the service on-site, answer any questions you have, and you\'re on your way. No waiting rooms, no rides needed, no wasted time.' },
             ].map((step) => (
               <div key={step.step} className="card text-center relative">

@@ -10,7 +10,7 @@ export const metadata = {
     default: 'Mobile Mechanic Sacramento CA | EC Mobile Auto Services LLC',
   },
   description:
-    'EC Mobile Auto Services LLC — Sacramento\'s mobile mechanic. We come to your home, office, or roadside. Oil changes, brakes, batteries, diagnostics & more. Call (916) 517-3286.',
+    'EC Mobile Auto Services LLC — Sacramento\'s mobile mechanic. We come to your home or office. Oil changes, brakes, batteries, diagnostics & more. Call (916) 517-3286.',
   keywords: ['mobile mechanic Sacramento', 'mobile oil change Sacramento', 'mobile auto repair Sacramento CA'],
   openGraph: {
     type: 'website',
