@@ -1,0 +1,56 @@
+# EC Mobile Auto Services
+
+> Mobile mechanic and oil change service serving Sacramento, CA and surrounding cities (Elk Grove, Folsom, Roseville, Rancho Cordova, Citrus Heights, Carmichael, Fair Oaks, Antelope, North Highlands, Orangevale). Owner-operated by Enrique Castillo — ASE-certified, 30+ years experience. We come to your home, office, or parking lot. No trip fee within service area. Transparent upfront pricing, no upselling. 47+ Google reviews at 5.0 stars. 90-day / 3,000-mile warranty on parts and labor.
+
+## Core Services
+
+- [Mobile Oil Change Sacramento](https://ecmobileauto.com/services/mobile-oil-change-sacramento) — Conventional $65 / Full Synthetic $85 / High-Mileage $95 (up to 5 qts + filter); 20–30 min at your location
+- [Mobile Brake Service](https://ecmobileauto.com/services/mobile-brake-service-sacramento) — Brake pad replacement from $150/axle; free brake inspection with service
+- [Battery Replacement](https://ecmobileauto.com/services/mobile-battery-replacement-sacramento) — Free load test; replacement from $120 including installation and terminal cleaning
+- [AC Service & Recharge](https://ecmobileauto.com/services/mobile-ac-service-sacramento) — On-site recharge and inspection; important for Sacramento summers
+- [Check Engine Diagnosis](https://ecmobileauto.com/services/mobile-check-engine-sacramento) — $65 OBD-II scan + live data analysis; fee applied to repair if booked
+- [Coolant Flush](https://ecmobileauto.com/services/coolant-flush-sacramento) — Full cooling system flush and refill on-site
+- [Tune-Up Service](https://ecmobileauto.com/services/tune-up-sacramento) — Spark plugs, air filters, ignition service
+- [Serpentine Belt Replacement](https://ecmobileauto.com/services/serpentine-belt-sacramento) — Inspect and replace before failure
+- [Tire Rotation](https://ecmobileauto.com/services/tire-rotation-sacramento) — $30 standalone / $25 bundled with oil change; includes pressure check and torque to spec
+- [Pre-Purchase Inspection](https://ecmobileauto.com/services/pre-purchase-inspection-sacramento) — $100; 150-point inspection at the seller's location
+
+## Key Pages
+
+- [Homepage](https://ecmobileauto.com/) — Overview of mobile mechanic service, how it works, service areas
+- [Pricing](https://ecmobileauto.com/pricing) — Full price list for all services; no trip fee within service area
+- [About](https://ecmobileauto.com/about) — Enrique Castillo bio; ASE-certified, 30+ years experience, founded 2022
+- [Reviews](https://ecmobileauto.com/reviews) — 47+ Google reviews, 5.0 stars; spans all service areas
+- [FAQ](https://ecmobileauto.com/faq) — Common questions about mobile mechanic service
+- [Contact / Book](https://ecmobileauto.com/contact) — Request service; phone (916) 517-3286; Mon–Fri 7am–7pm, Sat 8am–5pm, Sun by appointment
+- [All Services](https://ecmobileauto.com/services) — Index of all 10 service types
+- [Blog](https://ecmobileauto.com/blog) — Maintenance tips, pricing guides, local Sacramento auto content
+
+## Service Areas
+
+- [Sacramento](https://ecmobileauto.com/service-areas/mobile-mechanic-sacramento)
+- [Elk Grove](https://ecmobileauto.com/service-areas/mobile-mechanic-elk-grove)
+- [Folsom](https://ecmobileauto.com/service-areas/mobile-mechanic-folsom)
+- [Rancho Cordova](https://ecmobileauto.com/service-areas/mobile-mechanic-rancho-cordova)
+- [Roseville](https://ecmobileauto.com/service-areas/mobile-mechanic-roseville)
+- [Citrus Heights](https://ecmobileauto.com/service-areas/mobile-mechanic-citrus-heights)
+- [Carmichael](https://ecmobileauto.com/service-areas/mobile-mechanic-carmichael)
+- [Fair Oaks](https://ecmobileauto.com/service-areas/mobile-mechanic-fair-oaks)
+- [Antelope](https://ecmobileauto.com/service-areas/mobile-mechanic-antelope)
+- [North Highlands](https://ecmobileauto.com/service-areas/mobile-mechanic-north-highlands)
+- [Orangevale](https://ecmobileauto.com/service-areas/mobile-mechanic-orangevale)
+
+## Blog — Selected Articles
+
+- [How Much Does a Mobile Mechanic Cost?](https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost) — Pricing breakdown vs. traditional shops
+- [Mobile Mechanic vs. Auto Shop](https://ecmobileauto.com/blog/mobile-mechanic-vs-shop) — Time, cost, and convenience comparison
+- [Can a Mobile Mechanic Come to an Apartment?](https://ecmobileauto.com/blog/can-mobile-mechanic-come-to-apartment) — Parking lot logistics, what to expect
+- [How Long Does a Mobile Oil Change Take?](https://ecmobileauto.com/blog/how-long-does-mobile-oil-change-take) — Typical 20–30 min; what affects timing
+- [30-60-90 Car Maintenance Rule](https://ecmobileauto.com/blog/30-60-90-car-maintenance-rule) — Mileage-based maintenance schedule explained
+- [Sacramento Summer Car Maintenance](https://ecmobileauto.com/blog/sacramento-summer-car-maintenance) — Heat-specific tips for Sacramento climate
+- [Signs Your Brakes Need Replacing](https://ecmobileauto.com/blog/signs-brakes-need-replacing) — Warning signs and when to act
+- [Pre-Purchase Inspection Guide](https://ecmobileauto.com/blog/pre-purchase-inspection-sacramento) — Why to inspect before buying used; what's checked
+
+## Optional
+
+- [llms-full.txt](https://ecmobileauto.com/llms-full.txt) — Extended content (not yet published)
