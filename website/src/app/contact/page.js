@@ -101,9 +101,9 @@ export default function ContactPage() {
 
           {/* Form */}
           <div>
-            <h2 className="section-heading">Online Booking Request</h2>
+            <h2 className="section-heading">Get a Free Quote</h2>
             <Suspense><FormSuccess /></Suspense>
-            <p className="text-gray-600 text-sm mb-6">Fill out the form and we&apos;ll confirm your appointment within a few hours (during business hours).</p>
+            <p className="text-gray-600 text-sm mb-6">No commitment — we&apos;ll reach out within a few hours to confirm availability and pricing.</p>
             <form className="space-y-4" action="https://api.web3forms.com/submit" method="POST">
               <input type="hidden" name="access_key" value="27bbf49b-602b-43bb-9140-6bb3c3c15cba" />
               <input type="hidden" name="subject" value="New Booking Request – EC Mobile Auto Services" />
@@ -198,9 +198,9 @@ export default function ContactPage() {
                 type="submit"
                 className="btn-primary w-full text-lg py-4"
               >
-                Submit Booking Request →
+                Get My Free Quote →
               </button>
-              <p className="text-xs text-gray-500 text-center">We respond within a few hours during business hours. For immediate help, call (916) 517-3286.</p>
+              <p className="text-xs text-gray-500 text-center">No commitment required. For immediate help, call (916) 517-3286.</p>
             </form>
           </div>
         </div>
