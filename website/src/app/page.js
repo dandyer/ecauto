@@ -34,7 +34,7 @@ const localBusinessSchema = {
     'Sacramento', 'Elk Grove', 'Rancho Cordova', 'Roseville', 'Folsom',
     'Citrus Heights', 'Carmichael', 'Fair Oaks', 'Antelope', 'North Highlands', 'Orangevale',
   ],
-  openingHours: ['Mo-Sa 07:00-19:00'],
+  openingHours: ['Mo-Fr 07:00-19:00'],
   hasMap: 'https://www.google.com/maps?q=Sacramento,CA',
 };
 

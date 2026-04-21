@@ -23,7 +23,7 @@ const contactSchema = {
     postalCode: '95814',
     addressCountry: 'US',
   },
-  openingHours: ['Mo-Sa 07:00-19:00'],
+  openingHours: ['Mo-Fr 07:00-19:00'],
   contactPoint: {
     '@type': 'ContactPoint',
     telephone: '+19165173286',
@@ -75,7 +75,7 @@ export default function ContactPage() {
               <div className="space-y-2 text-sm">
                 {[
                   { day: 'Monday – Friday', hours: '7:00 AM – 7:00 PM' },
-                  { day: 'Saturday', hours: '8:00 AM – 5:00 PM' },
+                  { day: 'Saturday', hours: 'By appointment only' },
                   { day: 'Sunday', hours: 'By appointment only' },
                 ].map((h) => (
                   <div key={h.day} className="flex justify-between">

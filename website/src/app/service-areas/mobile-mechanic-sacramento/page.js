@@ -75,7 +75,7 @@ export default function MechanicSacramentoPage() {
           <div className="prose prose-lg text-gray-700 space-y-4">
             <p>Sacramento is one of California&apos;s most car-dependent cities. With sprawling neighborhoods stretching from Natomas in the north to Florin and Valley Hi in the south, most Sacramento residents rely on their vehicles every single day — for commutes on I-5, I-80, and US-50, grocery runs, school pickups, and weekend trips to the mountains or the bay.</p>
             <p>When your car needs service, the last thing you want is to add a shop trip to your busy schedule. EC Mobile Auto Services was built for Sacramento drivers. We come to your home in Land Park, your office in Midtown, your apartment complex in Natomas, or wherever your vehicle happens to be. No waiting rooms, no arranging rides, no lost half-days.</p>
-            <p>Owner Enrique Castillo grew up in Sacramento and knows this city. He built EC Mobile Auto Services to give Sacramento residents access to honest, skilled auto repair without the hassle of a traditional shop.</p>
+            <p>Owner Enrique Castillo is a long-time Sacramento resident who knows this city. He built EC Mobile Auto Services to give Sacramento residents access to honest, skilled auto repair without the hassle of a traditional shop.</p>
           </div>
         </div>
       </section>

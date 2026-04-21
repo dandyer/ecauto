@@ -45,7 +45,7 @@ export default function AboutPage() {
             About EC Mobile Auto Services LLC — Sacramento&apos;s Mobile Mechanic
           </h1>
           <p className="text-blue-200 text-xl max-w-2xl">
-            A Sacramento-born business built on the belief that good auto repair shouldn&apos;t require half a day of your time or a pocket full of worry.
+            A Sacramento-based business built on the belief that good auto repair shouldn&apos;t require half a day of your time or a pocket full of worry.
           </p>
         </div>
       </section>
@@ -63,7 +63,7 @@ export default function AboutPage() {
             </div>
             <div className="mt-6 space-y-3">
               <div className="flex items-center gap-2 text-sm text-gray-700">
-                <span>📍</span> <span>Born &amp; raised in Sacramento, CA</span>
+                <span>📍</span> <span>Long-time Sacramento, CA resident</span>
               </div>
               <div className="flex items-center gap-2 text-sm text-gray-700">
                 <span>🔧</span> <span>30+ years of automotive experience</span>
