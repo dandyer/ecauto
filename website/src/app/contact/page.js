@@ -101,7 +101,10 @@ export default function ContactPage() {
           <div>
             <h2 className="section-heading">Online Booking Request</h2>
             <p className="text-gray-600 text-sm mb-6">Fill out the form and we&apos;ll confirm your appointment within a few hours (during business hours).</p>
-            <form className="space-y-4" action="#" method="POST">
+            <form className="space-y-4" action="https://api.web3forms.com/submit" method="POST">
+              <input type="hidden" name="access_key" value="27bbf49b-602b-43bb-9140-6bb3c3c15cba" />
+              <input type="hidden" name="subject" value="New Booking Request – EC Mobile Auto Services" />
+              <input type="hidden" name="redirect" value="https://ecmobileauto.com/contact?sent=1" />
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-1">Full Name *</label>
