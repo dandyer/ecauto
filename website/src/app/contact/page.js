@@ -1,5 +1,7 @@
+import { Suspense } from 'react';
 import CTASection from '@/components/CTASection';
 import SchemaMarkup from '@/components/SchemaMarkup';
+import FormSuccess from '@/components/FormSuccess';
 
 export const metadata = {
   title: 'Book a Mobile Mechanic in Sacramento, CA | EC Mobile Auto Services',
@@ -100,6 +102,7 @@ export default function ContactPage() {
           {/* Form */}
           <div>
             <h2 className="section-heading">Online Booking Request</h2>
+            <Suspense><FormSuccess /></Suspense>
             <p className="text-gray-600 text-sm mb-6">Fill out the form and we&apos;ll confirm your appointment within a few hours (during business hours).</p>
             <form className="space-y-4" action="https://api.web3forms.com/submit" method="POST">
               <input type="hidden" name="access_key" value="27bbf49b-602b-43bb-9140-6bb3c3c15cba" />
